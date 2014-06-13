@@ -1,0 +1,42 @@
+.imgflags{
+	width : 100px;
+	height: 100px;
+}
+
+
+
+#choose{
+	padding: 1em 1em 1em 1em;
+	font-size: 23px;
+}
+
+#tittle{
+	font-family: serif;
+	font-size: 67px;
+}
+
+
+.button-start
+{
+	margin-top: 2em;
+}
+
+.button{
+	width:67%;
+}
+
+.img-slide img 
+{
+	width: 100%;
+}
+
+.slide-system
+{
+	margin-bottom: 0;
+	background: #fff;
+	padding: 2em 4em 2em 4em;
+}
+.container-system
+{
+	width: 68%;
+}

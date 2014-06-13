@@ -1,0 +1,6 @@
+<?php 
+
+$lang['welcome'] = "Willkommen";
+
+
+?>
