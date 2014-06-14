@@ -1,0 +1,8 @@
+Read this carefully!
+
+1. First go to Import / Export from backend menu located at /wp-admin/admin.php?page=cosmothemes__io
+and COPY the content of the 01_import.txt file into the "This is the import zone" textarea.
+
+2. After succesfull import of site structure you can upload the 02_wordpress.xml file using the built-in WordPress import plugin: Tools - Import located at /wp-admin/import.php
+
+3. Choose WordPress if you already have the plugin installed /wp-admin/admin.php?import=wordpress then follow the steps on the screen.
